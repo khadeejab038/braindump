@@ -1,3 +1,4 @@
+
 <img width="919" height="193" alt="0" src="https://github.com/user-attachments/assets/70be2132-66eb-42b8-8dfc-19529ea3ba25" /> <br> <strong><i> BrainDump! by Khadeeja Basit </i></strong>
 <br>
 <p align="center">
@@ -31,7 +32,7 @@ Theres also Dark Mode, if that intrigues you 👀
 
 
 ### 🥰 Download Now
-[![Download for Android](https://img.shields.io/badge/Android-Download%20APK-brightgreen?style=for-the-badge&logo=android)](YOUR_LINK_HERE)
+[![Download for Android](https://img.shields.io/badge/Android-Download%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/khadeejab038/braindump/blob/main/braindumpv1-khadeejabasit.apk)
 [![Download for iOS](https://img.shields.io/badge/iOS-TestFlight-lightgrey?style=for-the-badge&logo=apple)](YOUR_LINK_HERE)
 <br> Download link for iOS is just around the corner
 
